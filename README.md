@@ -13,6 +13,6 @@ All this project is based on this web page "https://www.thecocktaildb.com/"
 
 Here you can see an example of the final version of this project.
 
-<img src="https://github.com/AnaGuerreroH/drinks/assets/99692062/a663c214-74fa-4df8-83d1-369940ac3a8d" width="300px"/>
+<img src="https://github.com/AnaGuerreroH/drinks/assets/99692062/7d05c871-c457-4fbc-a298-eb38e62b0644" width="300px"/>
 
 Thank you!
